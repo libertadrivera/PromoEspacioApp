@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PromoEspacioApp</string>
+    <string name="user_email_placeholder">Usuario/Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password"><u>¿Olvidaste tu contraseña?</u></string>
+    <string name="login">Inicio de sesión</string>
+    <string name="restore_password">Reestaurar contrseña</string>
+    <string name="restore">Reestaurar</string>
+    <string name="new_password">Nueva contrseña</string>
+    <string name="confirm_password">Confirmar contrseña</string>
+    <string name="dont_close_app">Por favor, no cierres la aplicación.</string>
+    <string name="loading_data">Cargando datos...</string>
+    <string name="download_resources">Vas a descargar los recursos necesarios para utilizar esta aplicación, cuyo tamaño es de cerca de 3.0 Gb dependiendo del número de archivos, ¿deseas continuar?<br /></string>
+    <string name="download">Descargar</string>
+    <string name="download_files">Descargando archivos:</string>
+    <string name="verification_code">Código de verificación</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="content_descrip_password">Ver password</string>
+    <string name="error_data_download">Error en la descarga</string>
+    <string name="error_no_internet">Error por conexión de internet</string>
+    <string name="error_user_email">Usuario/Correo no puede estar vacio</string>
+    <string name="error_password">Password  no puede estar vacio</string>
+</resources>
